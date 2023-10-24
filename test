@@ -4,7 +4,7 @@
 4 - Quit
 
 Enter your choice: 1
-Enter the task: Faire les courses
+Enter the task: T1
 Task added to the list successfully!
 ++++++++++++++++++++++++++++++
 
@@ -14,7 +14,7 @@ Task added to the list successfully!
 4 - Quit
 
 Enter your choice: 3
-1. Faire les courses ❌
+1. T1 ❌
 ++++++++++++++++++++++++++++++
 
 1 - Add tasks to a list
@@ -33,5 +33,5 @@ Task marked completed
 4 - Quit
 
 Enter your choice: 3
-1. Faire les courses ✔
+1. T1 ✔
 ++++++++++++++++++++++++++++++
