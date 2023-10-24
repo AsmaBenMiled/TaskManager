@@ -1,0 +1,37 @@
+1 - Add tasks to a list
+2 - Mark task as complete
+3 - View tasks
+4 - Quit
+
+Enter your choice: 1
+Enter the task: Faire les courses
+Task added to the list successfully!
+++++++++++++++++++++++++++++++
+
+1 - Add tasks to a list
+2 - Mark task as complete
+3 - View tasks
+4 - Quit
+
+Enter your choice: 3
+1. Faire les courses ❌
+++++++++++++++++++++++++++++++
+
+1 - Add tasks to a list
+2 - Mark task as complete
+3 - View tasks
+4 - Quit
+
+Enter your choice: 2
+choose the task number to complete: 1
+Task marked completed
+------------------------------
+
+1 - Add tasks to a list
+2 - Mark task as complete
+3 - View tasks
+4 - Quit
+
+Enter your choice: 3
+1. Faire les courses ✔
+++++++++++++++++++++++++++++++
