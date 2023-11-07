@@ -1,7 +1,8 @@
 # TaskManager
 * Mini Projet : Liste de Tâches en Python
 * Ce projet permet de gérer une liste de tâches, de les marquer comme terminées et de les afficher à l'écran.
-* Fonctionnalités
+# Fonctionnalités
+
 Le projet comprend les fonctionnalités suivantes :
 
  - Ajouter des tâches : Ajouter des tâches à une liste. Les nouvelles tâches sont initialement définies comme non terminées.
